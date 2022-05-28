@@ -1,4 +1,6 @@
-
+//Universidad del Valle de Guatemala
+//Organización de computadoras y Assembler 
+//Cindy Mishelle Gualim Pérez 21226
 .data
 .balign 4
 
