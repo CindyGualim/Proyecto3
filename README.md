@@ -5,12 +5,8 @@ Este proyecto implementa un juego interactivo utilizando un controlador basado e
 Desarrollar un programa en Assembler que controle el encendido y apagado de LEDs en función de las entradas de botones y teclado. El juego registra el estado de los jugadores y sigue una secuencia predefinida de luces.
 
 ### *Funcionalidades*
-Encendido Secuencial de LEDs:
-
-Ocho LEDs se encienden en secuencia, con estados específicos según el progreso del juego.
-Detección de Entradas:
-
-Lectura de botones para avanzar en el estado del juego.
+- Encendido Secuencial de LEDs: Ocho LEDs se encienden en secuencia, con estados específicos según el progreso del juego.
+- Detección de Entradas: Lectura de botones para avanzar en el estado del juego.
 
 Lectura de teclado para iniciar o reiniciar el juego.
 
