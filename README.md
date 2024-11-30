@@ -7,8 +7,7 @@ Desarrollar un programa en Assembler que controle el encendido y apagado de LEDs
 ### *Funcionalidades*
 - Encendido Secuencial de LEDs: Ocho LEDs se encienden en secuencia, con estados específicos según el progreso del juego.
 - Detección de Entradas: Lectura de botones para avanzar en el estado del juego.
-
-Lectura de teclado para iniciar o reiniciar el juego.
+- Lectura de teclado para iniciar o reiniciar el juego.
 
 ### *Control de Jugadores:*
 
